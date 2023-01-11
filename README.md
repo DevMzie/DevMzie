@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 
 mzingaye.tshili@gmail.com
-Twitter: @MzingayeT
+Twitter: @Ngu_Mzingaye
 
 <!---
 DevMzie/DevMzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
